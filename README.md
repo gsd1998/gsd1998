@@ -1,4 +1,8 @@
-## Hi there 👋
+## Wassup... 👋
+- 🌱 Interested about backend web technologies 
+- 😄 My socials are tagged under, do check it out
+- ⚡ Currently doing a speedrun through java & Spring
+    
 
 <!--
 **gsd1998/gsd1998** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
