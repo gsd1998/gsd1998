@@ -1,5 +1,5 @@
 ## Wassup... 👋
-- 🌱 Interested about backend web technologies 
+- 🌱 I work on backend web technologies 
 - 😄 My socials are tagged under, do check it out
 - ⚡ Currently doing a speedrun through java & Spring
     
