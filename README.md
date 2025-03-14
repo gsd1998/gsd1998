@@ -1,7 +1,7 @@
 ## Wassup... 👋
 - 🌱 I work on backend web technologies 
 - 😄 My socials are tagged under, do check it out
-- ⚡ Currently doing a speedrun through Java, Spring, Devops and DSA
+- ⚡ Currently doing a speedrun through Java, Spring, DevOps and DSA
     
 
 <!--
