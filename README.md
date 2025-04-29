@@ -9,7 +9,7 @@
 - 🔭 I’m currently working as a **Backend Java Developer**
 - 🌱 Constantly learning and exploring **Scalable System Design**, **Microservices**, and **Cloud DevOps**
 - 💡 Love solving problems and building clean backend architectures
-- 🛠️ Tech Stack: Java, Spring Boot, REST APIs, Microservices, Docker, Kubernetes, AWS
+- 🛠️ Tech Stack: Java, Spring Boot, REST APIs, Microservices, Docker, Kubernetes, Google Cloud
 - ⚛️ Also tinkering with **React** for full-stack applications
 
 ---
